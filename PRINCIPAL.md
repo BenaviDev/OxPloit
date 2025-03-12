@@ -14,20 +14,19 @@
 Soy un apasionado de la ciberseguridad, el desarrollo de software y la automatización. Con experiencia en Python, Java, Bash scripting y herramientas de hacking ético, me enfoco en crear soluciones innovadoras para seguridad y desarrollo web... <br>
 
 Encuentra mi contenido en YouTube <a href="https://www.youtube.com/@HackeandoPatos"><b>Aca</b></a><br>
-or <a href="mailto:sbenavidezr29@gmail.com"><b>Gmail</b></a> me
+o enviame un mensaje por <a href="mailto:sbenavidezr29@gmail.com"><b>Gmail</b></a> 
 
-<i>Disfruta del contenido</i> 😊
+<i>CONTENIDO</i> 😊
+
+🔐 Ciberseguridad: Pentesting, Redes, OSINT
+🖥️ Lenguajes: Python, Java, Bash
+🛠️ Herramientas: Kali Linux, Metasploit, Aircrack-ng, Nmap, msfvenom, linuxMint, Zphiser
 
 </div>
-
-<div align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
-
 </br>
 </br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<i>Unete a la comunidad DISCORD</i><br>
+<a href="https://discord.gg/q7J7V2kr"><img align="center" src="https://discord.gg/q7J7V2kr" alt="DISCORD"></a>
 
 ---
 [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
