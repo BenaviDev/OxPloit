@@ -10,61 +10,46 @@
 
 <div align="center">
 
-🚀 Sobre mí <br>
-Soy un apasionado de la ciberseguridad, el desarrollo de software y la automatización. Con experiencia en Python, Java, Bash scripting y herramientas de hacking ético, me enfoco en crear soluciones innovadoras para seguridad y desarrollo web... <br>
+🚀 **Sobre mí** <br>
+Soy un apasionado de la **ciberseguridad, desarrollo de software y automatización**.  
+Con experiencia en **Python, Java, Bash scripting** y herramientas de **hacking ético**, me especializo en la creación de soluciones innovadoras para seguridad informática y desarrollo web.  
 
-Encuentra mi contenido en YouTube <a href="https://www.youtube.com/@HackeandoPatos"><b>Aca</b></a><br>
-o enviame un mensaje por <a href="mailto:sbenavidezr29@gmail.com"><b>Gmail</b></a> 
-
-<i>CONTENIDO</i> 😊
-
-🔐 Ciberseguridad: Pentesting, Redes, OSINT
-🖥️ Lenguajes: Python, Java, Bash
-🛠️ Herramientas: Kali Linux, Metasploit, Aircrack-ng, Nmap, msfvenom, linuxMint, Zphiser
+📺 Encuentra mi contenido en YouTube **[aquí](https://www.youtube.com/@HackeandoPatos)**  
+📧 Contáctame en **[Gmail](mailto:sbenavidezr29@gmail.com)**  
 
 </div>
-</br>
-</br>
-<i>Unete a la comunidad DISCORD</i><br>
-<a href="https://discord.gg/q7J7V2kr"><img align="center" src="https://discord.gg/q7J7V2kr" alt="DISCORD"></a>
 
 ---
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
-<i>Follow me around the web:</i><br>
+### 🛠 **Habilidades y Tecnologías**  
 
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-  <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
-  <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
-  <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
+- 🔐 **Ciberseguridad:** Pentesting, Redes, OSINT  
+- 🖥️ **Lenguajes:** Python, Java, Bash  
+- ⚡ **Herramientas:** Kali Linux, Metasploit, Aircrack-ng, Nmap, Msfvenom, Linux Mint, Zphisher  
+- 🌐 **Desarrollo Web:** HTML, CSS, JavaScript, Bootstrap  
 
-<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+---
 
-</div>
+### 📌 **Proyectos Destacados**  
+🔹 **[OxPloit-Tool](#)** – Herramienta para automatización de pruebas de seguridad  
+🔹 **[BashExploit](#)** – Scripts en Bash para análisis de vulnerabilidades  
+🔹 **[Image-Remover](#)** – Eliminación de fondos de imágenes con Python  
 
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
+---
 
-<!--
-**ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎮 **Únete a la Comunidad**  
+📢 **Discord:** Conéctate con otros entusiastas de la ciberseguridad  
+<a href="https://discord.gg/q7J7V2kr"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=flat-square&logo=discord&logoColor=white" alt="DISCORD"></a>  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌎 **Sígueme en Redes**  
+<a href="https://www.linkedin.com/in/tu-perfil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
+<a href="https://www.instagram.com/tu-perfil" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>  
+<a href="https://www.facebook.com/tu-perfil" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>  
+<a href="https://dev.to/tu-perfil" target="_blank"><img src="https://img.shields.io/badge/DEV.to-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>  
 
------
-Credits: [ABSphreak](https://github.com/ABSphreak)
+---
 
-Last Edited on: 30/08/2020
+🔥 *Siempre explorando, aprendiendo y desarrollando nuevas soluciones en ciberseguridad y desarrollo de software.*  
+
