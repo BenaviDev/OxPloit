@@ -13,10 +13,10 @@
 🚀 Sobre mí <br>
 Soy un apasionado de la ciberseguridad, el desarrollo de software y la automatización. Con experiencia en Python, Java, Bash scripting y herramientas de hacking ético, me enfoco en crear soluciones innovadoras para seguridad y desarrollo web... <br>
 
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
-or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
+Encuentra mi contenido en YouTube <a href="https://www.youtube.com/@HackeandoPatos"><b>Aca</b></a><br>
+or <a href="mailto:sbenavidezr29@gmail.com"><b>Gmail</b></a> me
 
-<i>Happy Coding!</i> 😊
+<i>Disfruta del contenido</i> 😊
 
 </div>
 
