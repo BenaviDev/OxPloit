@@ -27,7 +27,6 @@ Con experiencia en **Python, Java, Bash scripting** y herramientas de **hacking 
 - 🖥️ **Lenguajes:** Python, Java, Bash  
 - ⚡ **Herramientas:** Kali Linux, Metasploit, Aircrack-ng, Nmap, Msfvenom, Linux Mint, Zphisher  
 - 🌐 **Desarrollo Web:** HTML, CSS, JavaScript, Bootstrap  
-- 🤖 **Automatización y Chatbots:** Creación de bots con Landbot  
 
 ---
 
@@ -49,7 +48,7 @@ Con experiencia en **Python, Java, Bash scripting** y herramientas de **hacking 
 
 📌 **Creador de Contenido Educativo**  
 - Desarrollo de videos y material didáctico sobre **hacking ético y programación en Python**  
-- Creación de guías prácticas y tutoriales sobre ciberseguridad y desarrollo  
+- Creación de guías prácticas y tutoriales sobre ciberseguridad y desarrollo todo el contenido en mi canal de YouTube !  
 
 📌 **Logros Destacados**  
 ✅ Desarrollo de un **chatbot con Landbot** para optimizar la atención y gestión de usuarios  
@@ -69,3 +68,4 @@ Con experiencia en **Python, Java, Bash scripting** y herramientas de **hacking 
 ---
 
 🔥 *Siempre explorando, aprendiendo y desarrollando nuevas soluciones en ciberseguridad y desarrollo de software.*  
+
