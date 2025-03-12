@@ -14,7 +14,7 @@
 Soy un apasionado de la **ciberseguridad, desarrollo de software y automatización**.  
 Con experiencia en **Python, Java, Bash scripting** y herramientas de **hacking ético**, me especializo en la creación de soluciones innovadoras para seguridad informática y desarrollo web.  
 
-📺 Encuentra mi contenido en YouTube **[aquí](https://www.youtube.com/@HackeandoPatos)**  
+📺 Encuentra mi contenido en TikTok **[aquí](https://www.tiktok.com/@hackeadopatos)**  
 📧 Contáctame en **[Gmail](mailto:sbenavidezr29@gmail.com)**  
 
 </div>
@@ -27,13 +27,32 @@ Con experiencia en **Python, Java, Bash scripting** y herramientas de **hacking 
 - 🖥️ **Lenguajes:** Python, Java, Bash  
 - ⚡ **Herramientas:** Kali Linux, Metasploit, Aircrack-ng, Nmap, Msfvenom, Linux Mint, Zphisher  
 - 🌐 **Desarrollo Web:** HTML, CSS, JavaScript, Bootstrap  
+- 🤖 **Automatización y Chatbots:** Creación de bots con Landbot  
 
 ---
 
 ### 📌 **Proyectos Destacados**  
-🔹 **[OxPloit-Tool](#)** – Herramienta para automatización de pruebas de seguridad  
-🔹 **[BashExploit](#)** – Scripts en Bash para análisis de vulnerabilidades  
-🔹 **[Image-Remover](#)** – Eliminación de fondos de imágenes con Python  
+🔹 **[Proyecto 1](#)** – Descripción breve del proyecto  
+🔹 **[Proyecto 2](#)** – Descripción breve del proyecto  
+🔹 **[Proyecto 3](#)** – Descripción breve del proyecto  
+
+---
+
+### 💼 **Experiencia Profesional**  
+
+📌 **Soporte Técnico de Primer Nivel**  
+- Atención y resolución de requerimientos en **equipos de cómputo, redes, comunicaciones, audiovisual y laboratorios**  
+- Actualización de inventarios y documentación de los casos recibidos  
+- Asegurar el cumplimiento de acuerdos de nivel de servicio (SLA) y gestión de casos recurrentes  
+- Inducción y capacitación a aprendices en procesos técnicos  
+- Manejo de plataformas **Salesforce** y **GLPI**  
+
+📌 **Creador de Contenido Educativo**  
+- Desarrollo de videos y material didáctico sobre **hacking ético y programación en Python**  
+- Creación de guías prácticas y tutoriales sobre ciberseguridad y desarrollo  
+
+📌 **Logros Destacados**  
+✅ Desarrollo de un **chatbot con Landbot** para optimizar la atención y gestión de usuarios  
 
 ---
 
@@ -44,12 +63,9 @@ Con experiencia en **Python, Java, Bash scripting** y herramientas de **hacking 
 ---
 
 ### 🌎 **Sígueme en Redes**  
-<a href="https://www.linkedin.com/in/tu-perfil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
-<a href="https://www.instagram.com/tu-perfil" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>  
-<a href="https://www.facebook.com/tu-perfil" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>  
-<a href="https://dev.to/tu-perfil" target="_blank"><img src="https://img.shields.io/badge/DEV.to-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>  
+<a href="https://www.linkedin.com/in/santiago-benavidez-789454237/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
+<a href="https://www.tiktok.com/@hackeadopatos" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a>  
 
 ---
 
 🔥 *Siempre explorando, aprendiendo y desarrollando nuevas soluciones en ciberseguridad y desarrollo de software.*  
-
