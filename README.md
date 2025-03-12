@@ -10,8 +10,9 @@
 
 <div align="center">
 
-QUiero darte la bienvenida a esta comunidad de Github. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+🚀 Sobre mí <br>
+Soy un apasionado de la ciberseguridad, el desarrollo de software y la automatización. Con experiencia en Python, Java, Bash scripting y herramientas de hacking ético, me enfoco en crear soluciones innovadoras para seguridad y desarrollo web... <br>
+
 Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
 or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 
